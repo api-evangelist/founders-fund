@@ -1,0 +1,640 @@
+generated: '2026-07-17'
+method: searched
+source: https://foundersfund.com/portfolio/
+summary:
+  portfolio_total: 61
+  in_network: 30
+  api_providers: 23
+  missing: 31
+  stubs_created: 0
+companies:
+- name: SpaceX
+  url: https://www.spacex.com
+  description: Designs, manufactures, and launches rockets and spacecraft.
+  sector: aerospace
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: spacex-api
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Palantir
+  url: https://www.palantir.com
+  description: Big-data analytics and operational software for government and enterprise.
+  sector: data-analytics
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: palantir
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Anduril
+  url: https://www.anduril.com
+  description: Autonomous defense systems, sensors, and drones.
+  sector: defense
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: anduril
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stripe
+  url: https://stripe.com
+  description: Online payments infrastructure and financial APIs.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: stripe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Airbnb
+  url: https://www.airbnb.com
+  description: Online marketplace for short-term lodging and experiences.
+  sector: marketplace
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: airbnb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ramp
+  url: https://ramp.com
+  description: Corporate cards and spend-management platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: ramp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Neuralink
+  url: https://neuralink.com
+  description: Implantable brain-computer interface devices.
+  sector: biotech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: neuralink
+- name: OpenAI
+  url: https://openai.com
+  description: Artificial intelligence research and large language models.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: openai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cognition
+  url: https://cognition.ai
+  description: AI software engineering agents (maker of Devin).
+  sector: ai
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: cognition
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Nubank
+  url: https://nubank.com.br
+  description: Digital banking and financial services in Latin America.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: nubank
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Trade Republic
+  url: https://traderepublic.com
+  description: European mobile brokerage and savings platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trade-republic
+- name: Spotify
+  url: https://www.spotify.com
+  description: Audio streaming platform for music and podcasts.
+  sector: consumer
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: spotify
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Rippling
+  url: https://www.rippling.com
+  description: Workforce management platform unifying HR, IT, and finance.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: rippling
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Affirm
+  url: https://www.affirm.com
+  description: Buy-now-pay-later consumer financing.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: affirm
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Crusoe
+  url: https://crusoe.ai
+  description: Energy-first cloud and AI infrastructure.
+  sector: energy
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: crusoe-energy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Polymarket
+  url: https://polymarket.com
+  description: Blockchain-based prediction market.
+  sector: crypto
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: polymarket
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lighter
+  description: Decentralized perpetuals exchange.
+  sector: crypto
+  stage: seed
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lighter
+- name: Figma
+  url: https://www.figma.com
+  description: Collaborative interface design and prototyping tool.
+  sector: developer-tools
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: figma
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Varda
+  url: https://www.varda.com
+  description: In-space manufacturing and pharmaceutical processing.
+  sector: aerospace
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: varda
+- name: General Matter
+  url: https://www.generalmatter.com
+  description: Domestic enriched-uranium fuel production for nuclear energy.
+  sector: energy
+  stage: seed
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: general-matter
+- name: Impulse Space
+  url: https://www.impulsespace.com
+  description: In-space transportation and orbital delivery services.
+  sector: aerospace
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: impulse-space
+- name: Hadrian
+  url: https://www.hadrian.co
+  description: Automated precision-manufacturing factories for aerospace and defense.
+  sector: manufacturing
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: hadrian
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Enter
+  description: Healthcare revenue-cycle and payments automation.
+  sector: healthtech
+  stage: seed
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enter
+- name: Arq
+  description: Portfolio company of Founders Fund.
+  sector: unknown
+  stage: unknown
+  status: unknown
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arq
+- name: PsiQuantum
+  url: https://www.psiquantum.com
+  description: Photonic quantum computing.
+  sector: quantum
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: psiquantum
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Until
+  description: Portfolio company of Founders Fund.
+  sector: unknown
+  stage: unknown
+  status: unknown
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: until
+- name: DeepMind
+  url: https://deepmind.google
+  description: Artificial intelligence research lab.
+  sector: ai
+  stage: growth
+  status: acquired
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: deepmind
+- name: Scale AI
+  url: https://scale.com
+  description: Data labeling and infrastructure for machine learning.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: scale-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Flock Safety
+  url: https://www.flocksafety.com
+  description: Camera and sensor systems for crime prevention and public safety.
+  sector: security
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flock-safety
+- name: The Boring Company
+  url: https://www.boringcompany.com
+  description: Tunneling and underground transportation infrastructure.
+  sector: infrastructure
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-boring-company
+- name: Oculus
+  url: https://www.meta.com/quest/
+  description: Virtual reality headsets and platform.
+  sector: hardware
+  stage: growth
+  status: acquired
+  source: https://foundersfund.com/portfolio/
+  slug: meta
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Persona
+  url: https://withpersona.com
+  description: Identity verification and management platform.
+  sector: identity
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: withpersona
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BuildOps
+  url: https://buildops.com
+  description: Operations software for commercial contractors.
+  sector: construction-software
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: buildops
+- name: Twilio
+  url: https://www.twilio.com
+  description: Cloud communications APIs for messaging and voice.
+  sector: developer-tools
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: twilio
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Credit Karma
+  url: https://www.creditkarma.com
+  description: Free credit scores and personal-finance recommendations.
+  sector: fintech
+  stage: growth
+  status: acquired
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: credit-karma
+- name: Netic
+  description: AI platform for home-services and skilled-trade businesses.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: netic
+- name: Monaco
+  description: Portfolio company of Founders Fund.
+  sector: unknown
+  stage: unknown
+  status: unknown
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: monaco
+- name: Oscar Health
+  url: https://www.hioscar.com
+  description: Technology-driven health insurance.
+  sector: healthtech
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: oscar-health
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Solugen
+  url: https://solugen.com
+  description: Bio-based chemical manufacturing.
+  sector: chemicals
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: solugen
+- name: Wave
+  description: Mobile money and financial services in Africa.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wave
+- name: Kavak
+  url: https://www.kavak.com
+  description: Online used-car marketplace in Latin America.
+  sector: marketplace
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: kavak
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Flexport
+  url: https://www.flexport.com
+  description: Global freight forwarding and supply-chain logistics platform.
+  sector: logistics
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: flexport
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Faire
+  url: https://www.faire.com
+  description: Wholesale marketplace connecting brands and independent retailers.
+  sector: marketplace
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: faire
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Workrise
+  url: https://www.workrise.com
+  description: Labor marketplace and management platform for skilled trades.
+  sector: marketplace
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: workrise
+- name: Aven
+  url: https://www.aven.com
+  description: Home-equity-backed consumer credit card.
+  sector: fintech
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aven
+- name: Found
+  description: Banking and bookkeeping platform for the self-employed.
+  sector: fintech
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: found
+- name: Cedar
+  url: https://www.cedar.com
+  description: Patient-billing and payments platform for healthcare providers.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cedar
+- name: Asana
+  url: https://asana.com
+  description: Work-management and team-collaboration software.
+  sector: saas
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: asana
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lyft
+  url: https://www.lyft.com
+  description: Ridesharing and transportation network.
+  sector: transportation
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  slug: lyft
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Wish
+  url: https://www.wish.com
+  description: Mobile-first discount ecommerce marketplace.
+  sector: ecommerce
+  stage: growth
+  status: ipo
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wish
+- name: Postmates
+  url: https://postmates.com
+  description: On-demand local delivery.
+  sector: delivery
+  stage: growth
+  status: acquired
+  source: https://foundersfund.com/portfolio/
+  slug: postmates
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Tagomi
+  description: Crypto prime brokerage (acquired by Coinbase).
+  sector: crypto
+  stage: series-a
+  status: acquired
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tagomi
+- name: Sword Health
+  url: https://swordhealth.com
+  description: Digital musculoskeletal and physical-therapy care.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sword-health
+- name: The Athletic
+  url: https://www.nytimes.com/athletic/
+  description: Subscription sports journalism (acquired by The New York Times).
+  sector: media
+  stage: growth
+  status: acquired
+  source: https://foundersfund.com/portfolio/
+  slug: new-york-times-company
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Traba
+  url: https://traba.work
+  description: Marketplace connecting warehouses and event venues with vetted workers.
+  sector: marketplace
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: traba
+- name: Paxos
+  url: https://paxos.com
+  description: Regulated blockchain infrastructure and stablecoin issuance.
+  sector: crypto
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paxos
+- name: Nanotronics
+  url: https://www.nanotronics.co
+  description: AI-driven inspection and control for advanced manufacturing.
+  sector: semiconductors
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nanotronics
+- name: Zocdoc
+  url: https://www.zocdoc.com
+  description: Online marketplace for booking medical appointments.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://foundersfund.com/portfolio/
+  slug: zocdoc
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Mnzil
+  description: Portfolio company of Founders Fund.
+  sector: unknown
+  stage: unknown
+  status: unknown
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mnzil
+- name: EnduroSat
+  url: https://www.endurosat.com
+  description: Software-defined satellites and space-services provider.
+  sector: aerospace
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: endurosat
+- name: Nominal
+  url: https://www.nominal.io
+  description: Test and data-analysis software for hardware and aerospace engineering.
+  sector: deep-tech
+  stage: series-a
+  status: active
+  source: https://foundersfund.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nominal

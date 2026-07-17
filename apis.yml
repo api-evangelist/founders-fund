@@ -1,0 +1,73 @@
+aid: founders-fund
+name: Founders Fund
+description: >-
+  Founders Fund is a San Francisco-based venture capital firm founded in 2005 by
+  Peter Thiel, Ken Howery, and Luke Nosek, best known for the credo "we wanted
+  flying cars, instead we got 140 characters" and a contrarian appetite for hard
+  science and frontier technology over incremental consumer apps. The firm backs
+  category-defining, often monopoly-scale companies across aerospace and defense,
+  artificial intelligence, biotech, fintech and crypto, energy, semiconductors,
+  robotics, and deep tech, investing from seed through late-stage growth with an
+  increasingly concentrated, high-conviction style (its recent growth funds put
+  hundreds of millions of dollars into a small number of companies). Founders
+  Fund manages roughly $17 billion in assets as of 2025 and is headquartered at
+  the Letterman Digital Arts Center in San Francisco's Presidio. Its portfolio
+  includes many of the defining technology companies of the era, among them
+  SpaceX, Palantir, Anduril, Stripe, Airbnb, Facebook, Neuralink, OpenAI,
+  DeepMind, Ramp, Nubank, Spotify, and Figma.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://foundersfund.com/wp-content/themes/foundersfund/assets/images/logo.svg
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Growth
+  - Deep Tech
+  - Aerospace and Defense
+  - Artificial Intelligence
+  - Fintech
+  - San Francisco
+  - United States
+apis: []
+common:
+  - type: Website
+    url: https://foundersfund.com
+  - type: Portfolio
+    url: https://foundersfund.com/portfolio/
+  - type: Portfolio
+    url: portfolio/founders-fund-portfolio.yml
+  - type: Team
+    url: https://foundersfund.com/our_team
+  - type: Team
+    url: team/founders-fund-team.yml
+  - type: InvestmentThesis
+    url: https://foundersfund.com/2018/01/manifesto
+  - type: Blog
+    url: https://foundersfund.com/anatomy-of-next/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/founders-fund
+  - type: Features
+    data:
+      - 'Stage: Seed, Series A, Growth (seed through late-stage)'
+      - 'Sectors: aerospace and defense, artificial intelligence, biotech, fintech and crypto, energy, semiconductors, robotics, deep tech, consumer'
+      - 'Geography: primarily United States, with global investments (Europe, Latin America)'
+      - 'AUM: ~$17B (2025, reported)'
+      - 'Founded: 2005'
+      - 'Founders: Peter Thiel, Ken Howery, Luke Nosek'
+      - 'HQ: Letterman Digital Arts Center, San Francisco, CA'
+    sources:
+      - https://en.wikipedia.org/wiki/Founders_Fund
+      - https://foundersfund.com
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: https://apisjson.org
+  - FN: Founders Fund
+    url: https://foundersfund.com
