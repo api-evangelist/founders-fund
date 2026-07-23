@@ -3,9 +3,9 @@ method: searched
 source: https://foundersfund.com/portfolio/
 summary:
   portfolio_total: 61
-  in_network: 30
-  api_providers: 23
-  missing: 31
+  in_network: 61
+  api_providers: 28
+  missing: 0
   stubs_created: 0
 companies:
 - name: SpaceX
@@ -81,9 +81,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: neuralink
+  slug: neuralink
+  matched_by: domain
 - name: OpenAI
   url: https://openai.com
   description: Artificial intelligence research and large language models.
@@ -124,9 +125,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: trade-republic
+  slug: trade-republic
+  matched_by: domain
 - name: Spotify
   url: https://www.spotify.com
   description: Audio streaming platform for music and podcasts.
@@ -188,9 +190,10 @@ companies:
   stage: seed
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: lighter
+  in_network: true
+  is_api_provider: true
+  slug: lighter
+  matched_by: name-slug
 - name: Figma
   url: https://www.figma.com
   description: Collaborative interface design and prototyping tool.
@@ -209,9 +212,10 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: varda
+  slug: varda
+  matched_by: domain
 - name: General Matter
   url: https://www.generalmatter.com
   description: Domestic enriched-uranium fuel production for nuclear energy.
@@ -219,9 +223,10 @@ companies:
   stage: seed
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: general-matter
+  slug: general-matter
+  matched_by: domain
 - name: Impulse Space
   url: https://www.impulsespace.com
   description: In-space transportation and orbital delivery services.
@@ -229,9 +234,10 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: impulse-space
+  slug: impulse-space
+  matched_by: domain
 - name: Hadrian
   url: https://www.hadrian.co
   description: Automated precision-manufacturing factories for aerospace and defense.
@@ -249,18 +255,20 @@ companies:
   stage: seed
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enter
+  slug: enter
+  matched_by: name-slug
 - name: Arq
   description: Portfolio company of Founders Fund.
   sector: unknown
   stage: unknown
   status: unknown
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arq
+  slug: arq
+  matched_by: name-slug
 - name: PsiQuantum
   url: https://www.psiquantum.com
   description: Photonic quantum computing.
@@ -278,9 +286,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: until
+  slug: until
+  matched_by: name-slug
 - name: DeepMind
   url: https://deepmind.google
   description: Artificial intelligence research lab.
@@ -288,9 +297,10 @@ companies:
   stage: growth
   status: acquired
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: deepmind
+  slug: deepmind
+  matched_by: domain
 - name: Scale AI
   url: https://scale.com
   description: Data labeling and infrastructure for machine learning.
@@ -309,9 +319,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: flock-safety
+  in_network: true
+  is_api_provider: true
+  slug: flock-safety
+  matched_by: domain
 - name: The Boring Company
   url: https://www.boringcompany.com
   description: Tunneling and underground transportation infrastructure.
@@ -319,9 +330,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-boring-company
+  slug: the-boring-company
+  matched_by: domain
 - name: Oculus
   url: https://www.meta.com/quest/
   description: Virtual reality headsets and platform.
@@ -351,9 +363,10 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: buildops
+  slug: buildops
+  matched_by: domain
 - name: Twilio
   url: https://www.twilio.com
   description: Cloud communications APIs for messaging and voice.
@@ -372,27 +385,30 @@ companies:
   stage: growth
   status: acquired
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: credit-karma
+  slug: creditkarma
+  matched_by: domain
 - name: Netic
   description: AI platform for home-services and skilled-trade businesses.
   sector: ai
   stage: seed
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: netic
+  slug: netic
+  matched_by: name-slug
 - name: Monaco
   description: Portfolio company of Founders Fund.
   sector: unknown
   stage: unknown
   status: unknown
   source: https://foundersfund.com/portfolio/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: monaco
+  in_network: true
+  is_api_provider: true
+  slug: monaco
+  matched_by: name-slug
 - name: Oscar Health
   url: https://www.hioscar.com
   description: Technology-driven health insurance.
@@ -411,18 +427,20 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: solugen
+  slug: solugen
+  matched_by: domain
 - name: Wave
   description: Mobile money and financial services in Africa.
   sector: fintech
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wave
+  slug: wave
+  matched_by: name-slug
 - name: Kavak
   url: https://www.kavak.com
   description: Online used-car marketplace in Latin America.
@@ -463,9 +481,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: workrise
+  slug: workrise
+  matched_by: name-slug
 - name: Aven
   url: https://www.aven.com
   description: Home-equity-backed consumer credit card.
@@ -473,18 +492,20 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aven
+  slug: aven
+  matched_by: domain
 - name: Found
   description: Banking and bookkeeping platform for the self-employed.
   sector: fintech
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: found
+  slug: found
+  matched_by: name-slug
 - name: Cedar
   url: https://www.cedar.com
   description: Patient-billing and payments platform for healthcare providers.
@@ -492,9 +513,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cedar
+  slug: cedar
+  matched_by: domain
 - name: Asana
   url: https://asana.com
   description: Work-management and team-collaboration software.
@@ -524,9 +546,10 @@ companies:
   stage: growth
   status: ipo
   source: https://foundersfund.com/portfolio/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: wish
+  in_network: true
+  is_api_provider: true
+  slug: wish
+  matched_by: domain
 - name: Postmates
   url: https://postmates.com
   description: On-demand local delivery.
@@ -544,9 +567,10 @@ companies:
   stage: series-a
   status: acquired
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tagomi
+  slug: tagomi
+  matched_by: name-slug
 - name: Sword Health
   url: https://swordhealth.com
   description: Digital musculoskeletal and physical-therapy care.
@@ -554,9 +578,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sword-health
+  slug: swordhealth
+  matched_by: domain
 - name: The Athletic
   url: https://www.nytimes.com/athletic/
   description: Subscription sports journalism (acquired by The New York Times).
@@ -575,9 +600,10 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: traba
+  slug: traba
+  matched_by: domain
 - name: Paxos
   url: https://paxos.com
   description: Regulated blockchain infrastructure and stablecoin issuance.
@@ -585,9 +611,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: paxos
+  in_network: true
+  is_api_provider: true
+  slug: paxos
+  matched_by: domain
 - name: Nanotronics
   url: https://www.nanotronics.co
   description: AI-driven inspection and control for advanced manufacturing.
@@ -595,9 +622,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nanotronics
+  slug: nanotronics
+  matched_by: domain
 - name: Zocdoc
   url: https://www.zocdoc.com
   description: Online marketplace for booking medical appointments.
@@ -615,9 +643,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mnzil
+  slug: mnzil
+  matched_by: name-slug
 - name: EnduroSat
   url: https://www.endurosat.com
   description: Software-defined satellites and space-services provider.
@@ -625,9 +654,10 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: endurosat
+  slug: endurosat
+  matched_by: domain
 - name: Nominal
   url: https://www.nominal.io
   description: Test and data-analysis software for hardware and aerospace engineering.
@@ -635,6 +665,7 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nominal
+  slug: nominal
+  matched_by: domain
