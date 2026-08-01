@@ -2,6 +2,13 @@
   "repo": "founders-fund",
   "feeds": [
     {
+      "source": "https://foundersfund.com/2017/01/manifesto/feed/",
+      "feed_url": "https://foundersfund.com/2017/01/manifesto/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://foundersfund.com/2018/01/manifesto",
       "feed_url": "https://foundersfund.com/2017/01/manifesto/feed/",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-07-20T13:31:34Z"
+  "post_count": 1,
+  "fetched": "2026-08-01T15:49:00Z"
 }
