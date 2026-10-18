@@ -3,9 +3,9 @@ method: searched
 source: https://foundersfund.com/portfolio/
 summary:
   portfolio_total: 61
-  in_network: 61
+  in_network: 59
   api_providers: 28
-  missing: 0
+  missing: 2
   stubs_created: 0
 companies:
 - name: SpaceX
@@ -103,7 +103,7 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  slug: cognition
+  slug: cognition-labs
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -169,7 +169,7 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  slug: crusoe-energy
+  slug: crusoe
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -352,7 +352,7 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  slug: withpersona
+  slug: persona
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -387,7 +387,7 @@ companies:
   source: https://foundersfund.com/portfolio/
   in_network: true
   is_api_provider: false
-  slug: creditkarma
+  slug: credit-karma
   matched_by: domain
 - name: Netic
   description: AI platform for home-services and skilled-trade businesses.
@@ -416,7 +416,7 @@ companies:
   stage: growth
   status: ipo
   source: https://foundersfund.com/portfolio/
-  slug: oscar-health
+  slug: oscar
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -481,10 +481,10 @@ companies:
   stage: growth
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: workrise
-  matched_by: name-slug
+  x-name-collision: workrise
+  suggested_slug: workrise-com
 - name: Aven
   url: https://www.aven.com
   description: Home-equity-backed consumer credit card.
@@ -502,10 +502,9 @@ companies:
   stage: series-a
   status: active
   source: https://foundersfund.com/portfolio/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: found
-  matched_by: name-slug
+  suggested_slug: found
 - name: Cedar
   url: https://www.cedar.com
   description: Patient-billing and payments platform for healthcare providers.
@@ -580,7 +579,7 @@ companies:
   source: https://foundersfund.com/portfolio/
   in_network: true
   is_api_provider: false
-  slug: swordhealth
+  slug: sword
   matched_by: domain
 - name: The Athletic
   url: https://www.nytimes.com/athletic/

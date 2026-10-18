@@ -1,4 +1,18 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: founders-fund
-leads: []
+leads:
+- name: Workrise
+  url: https://www.workrise.com
+  suggested_slug: workrise-com
+  sector: marketplace
+  source_vc: founders-fund
+  source: https://foundersfund.com/portfolio/
+  stub_created: false
+- name: Found
+  url: ''
+  suggested_slug: found
+  sector: fintech
+  source_vc: founders-fund
+  source: https://foundersfund.com/portfolio/
+  stub_created: false
