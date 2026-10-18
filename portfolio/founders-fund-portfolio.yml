@@ -193,7 +193,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: lighter
-  matched_by: name-slug
+  matched_by: domain
+  url: https://lighter.xyz
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Figma
   url: https://www.figma.com
   description: Collaborative interface design and prototyping tool.
@@ -258,7 +260,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: enter
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.enter.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Arq
   description: Portfolio company of Founders Fund.
   sector: unknown
@@ -289,7 +293,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: until
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.untillabs.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: DeepMind
   url: https://deepmind.google
   description: Artificial intelligence research lab.
@@ -398,7 +404,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: netic
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.netic.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Monaco
   description: Portfolio company of Founders Fund.
   sector: unknown
@@ -408,7 +416,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: monaco
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.monaco.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Oscar Health
   url: https://www.hioscar.com
   description: Technology-driven health insurance.
@@ -440,7 +450,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: wave
-  matched_by: name-slug
+  matched_by: domain
+  url: https://wavexr.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Kavak
   url: https://www.kavak.com
   description: Online used-car marketplace in Latin America.
@@ -505,6 +517,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: found
+  x-url-candidate: https://found.com
 - name: Cedar
   url: https://www.cedar.com
   description: Patient-billing and payments platform for healthcare providers.
@@ -674,9 +687,11 @@ companies:
   suggested_slug: fortell
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://www.fortell.com/
 - name: River
   source: https://foundersfund.com/portfolio
   x-added: '2026-10-18'
   suggested_slug: river
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://river.com
