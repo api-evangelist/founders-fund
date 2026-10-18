@@ -16,3 +16,17 @@ leads:
   source_vc: founders-fund
   source: https://foundersfund.com/portfolio/
   stub_created: false
+- name: Fortell
+  url: ''
+  suggested_slug: fortell
+  sector: ''
+  source_vc: founders-fund
+  source: https://foundersfund.com/portfolio
+  stub_created: false
+- name: River
+  url: ''
+  suggested_slug: river
+  sector: ''
+  source_vc: founders-fund
+  source: https://foundersfund.com/portfolio
+  stub_created: false

@@ -2,10 +2,10 @@ generated: '2026-07-17'
 method: searched
 source: https://foundersfund.com/portfolio/
 summary:
-  portfolio_total: 61
+  portfolio_total: 63
   in_network: 59
   api_providers: 28
-  missing: 2
+  missing: 4
   stubs_created: 0
 companies:
 - name: SpaceX
@@ -483,8 +483,8 @@ companies:
   source: https://foundersfund.com/portfolio/
   in_network: false
   is_api_provider: false
-  x-name-collision: workrise
   suggested_slug: workrise-com
+  x-name-collision: workrise
 - name: Aven
   url: https://www.aven.com
   description: Home-equity-backed consumer credit card.
@@ -668,3 +668,15 @@ companies:
   is_api_provider: false
   slug: nominal
   matched_by: domain
+- name: Fortell
+  source: https://foundersfund.com/portfolio
+  x-added: '2026-10-18'
+  suggested_slug: fortell
+  in_network: false
+  is_api_provider: false
+- name: River
+  source: https://foundersfund.com/portfolio
+  x-added: '2026-10-18'
+  suggested_slug: river
+  in_network: false
+  is_api_provider: false
